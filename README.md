@@ -3,7 +3,7 @@
 
 Desenvolvedor Back-end focado em arquitetura de microsserviços, mensageria de alta carga e APIs RESTful de alta disponibilidade.
 
-[LinkedIn](https://www.linkedin.com/in/guilherme-da-silva-garcia-ba6755405/) • [E-mail](mailto:guilhermegarcia565@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/guilherme-da-silva-garcia-ba6755405/) • [E-mail](guilhermegarcia565@gmail.com)
 
 ---
 
@@ -39,4 +39,4 @@ Desenvolvedor Back-end focado em arquitetura de microsserviços, mensageria de a
 
 ---
 
-*(Buscando oportunidades como Desenvolvedor Backend Júnior / Pleno)*
+*(Buscando oportunidades como Desenvolvedor Backend Júnior)*
